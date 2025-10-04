@@ -1,1 +1,1 @@
-Q-CaDD: Accelerating In Silico Methodologies with Quantum Computation and Machine Learning for Epidermal Growth Factor Receptor<img width="468" height="70" alt="image" src="https://github.com/user-attachments/assets/283a2877-8822-4bc2-a754-b5f5048c1107" />
+Q-CaDD: Accelerating In Silico Methodologies with Quantum Computation and Machine Learning for Epidermal Growth Factor Receptor
